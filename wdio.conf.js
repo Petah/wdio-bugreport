@@ -2,7 +2,7 @@ exports.config = {
   specs: ['./index.js'],
 
   capabilities: [{
-    browserName: 'firefox'
+    browserName: 'phantomjs'
   }],
 
   maxInstances: 1,

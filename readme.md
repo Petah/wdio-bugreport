@@ -8,7 +8,7 @@ It's a small example to reproduce the issue: https://github.com/webdriverio/webd
 Launch your selenium server on port 4444 and run:
 
 ```
-$ make
+$ npm install
 ```
 
 or install deps and run:
