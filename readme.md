@@ -1,11 +1,11 @@
 wdio-bugreport
 ==============
 
-It's a small example to reproduce the issue: https://github.com/webdriverio/webdriverio/issues/1195
+It's a small example to test a WDIO bug.
 
 ## Start
 
-Launch your selenium server on port 4444 and run:
+Launch your selenium server and run:
 
 ```
 $ npm install
